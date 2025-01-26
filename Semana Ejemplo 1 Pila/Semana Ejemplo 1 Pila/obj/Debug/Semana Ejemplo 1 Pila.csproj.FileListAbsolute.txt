@@ -1,0 +1,10 @@
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\bin\Debug\Semana Ejemplo 1 Pila.exe.config
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\bin\Debug\Semana Ejemplo 1 Pila.exe
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\bin\Debug\Semana Ejemplo 1 Pila.pdb
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\obj\Debug\Semana Ejemplo 1 Pila.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\obj\Debug\Semana_Ejemplo_1_Pila.Form1.resources
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\obj\Debug\Semana_Ejemplo_1_Pila.Properties.Resources.resources
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\obj\Debug\Semana Ejemplo 1 Pila.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\obj\Debug\Semana Ejemplo 1 Pila.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\obj\Debug\Semana Ejemplo 1 Pila.exe
+C:\Users\Andre\source\repos\Semana Ejemplo 1 Pila\Semana Ejemplo 1 Pila\obj\Debug\Semana Ejemplo 1 Pila.pdb
